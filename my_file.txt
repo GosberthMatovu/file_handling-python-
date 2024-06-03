@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2 with a number: 42.
+End of initial content, line 3.
+This is an appended line 4.
+Another appended line 5 with a number: 99.
+Final appended line 6.
